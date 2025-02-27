@@ -4,6 +4,7 @@ body {
   padding: 0;
   text-align: center;
   background-color:white;
+  background-image: url('/public/code.jpg.png');
 }
 
 header {
